@@ -10,7 +10,7 @@
     "tasks": [
         {
             "taskName": "default",
-            "args": [],
+            "args":  [],
             "isBuildCommand": true,
             "isBackground": false
         }
